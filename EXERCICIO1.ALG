@@ -1,20 +1,14 @@
 Algoritmo "exercicio1"
 
 Var
+   num : inteiro
 
-   numi: real
-   numf: real
 
 Inicio
 
-   escreval("Informe o número inicial:")
-   leia(numi)
-   escreval("Informe o número final:")
-   leia(numf)
+   repita
+   escreval("Digite 1,2,3 ou 4")
+   leia(num)
+   ate (num<0) ou (num>4)
 
-   enquanto (numi <= numf) faca
-   escreva(numi, " ")
-   numi := numi + 1
-   fimenquanto
-   
 Fimalgoritmo

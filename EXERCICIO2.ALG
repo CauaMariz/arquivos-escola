@@ -1,24 +1,19 @@
 Algoritmo "exercicio2"
 
 Var
-   num, i: inteiro
+   nomes: vetor [1..10] de caracter
+   x:inteiro
 
 Inicio
 
-   escreva("Informe um número para ver a tabuada: ")
-   leia(num)
-
-
-   escreval("Tabuada de ", num, ":")
-
-
-   i <- 1
-
-
-   enquanto i <= 10 faca
-      escreval(num, " x ", i, " = ", num * i)
-
-      i <- i + 1
-   fimenquanto
-
+   para x de 1 ate 10 faca
+   
+   escreval("Digite seu nome",x)
+   leia (nomes[x])
+   x<-x+1
+   fimpara
+   
+   para x de 1 ate 10 faca
+   escreval("Nomes: ",nomes[x])
+   fimpara
 Fimalgoritmo
