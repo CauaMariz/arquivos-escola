@@ -7,6 +7,7 @@ Agilidade
 Forca
 Logica
 Carisma
+Essencia
 
 Teste de dados:
 Em shadowrun usamos o d6, a o sucesso é considerado 5 e 6 no dado. Por exemplo:O mestre pede um intuicao, voce tem 2 de intuicao mais o atributo conectado que é logica, voce tem 3 de logica, logo, voce lancará 5d6 = intuicao + logica. A CD do teste por exemplo é 3 sucessos, e voce lanca 5 d6, para ser sucesso, é preiso tirar 5 ou 6 em pelo menos 2d6. 
@@ -19,5 +20,107 @@ Se o jogador quiser usar uma pericia que nao tem, pode rolar a quantidade de dad
 
 Limites: Em shadowrnu existe os lmites de um personagem, tanto limites fisicos, quantos de armas e outros.
 
-Livro QuickStart Shadowrun Pag5
 
+Combate:
+Cada turno dura 6s
+Iniciativa: Usa-se a pericia iniciativa
+
+Corrida em combate: Se a distancia que um personagem pode correr é de por exemplo 9MTs, se o jogador quiser, em sua acao, pode fazer um teste de corrida mais a sua forca, em cada sucesso que obtiver, é mais 2MTs de distancia percorrida
+
+
+Criacao de personagem:
+
+1 - Conceito: Nome, origem, raca etc.
+2 - Meta-tipos: Humano, elfo, anão, ork e troll.
+3 - Atributo: Todas as racas, independente do que está no livro, tem no comeco 1D4 de atributo. Para voce tirar o valor do seu atributo, use um d4
+
+4 - Qualidades: Cada personagem comeca com 25 de Carma para gastar emmm qualidades, escolha a sua!
+
+AFINIDADE ESPIRITUAL
+CUSTO: 7 CARMA
+Disponível apenas para usuários de magia, a qualidade
+Afinidade Espiritual permite que um personagem esteja 
+sintonizado a um espírito. Esse espirito ajudará o jogador de alguma maneira.
+Ao invocar um espirito, ele vive ate o fim da cena, ele terá as caracteristicas e atributos que o mestre decidir. se o espirito for forcado a fazer algo, ele pode atacar o invocador ou nao fazer nada. Um espirito pode ser atacado apenas por outros que tenham a habilidade Afinidade Espiritual. 
+
+ALTO LIMIAR DE DOR
+CUSTO: 7 CARMA
+O jogador pode usar essa habilidade para reduzir o dano recebido. Se o jogador estiver no nivel 1 ou 2, ele pode reduzir apenas 1D6 de dano. A cada dois niveis o passo no dado de reducao sobe.
+
+AFINIDADE DE MAO DOMINANTE:
+CUSTO: 9 CARMA
+Se a mao dominante do personagem for a mao direita ou esquerda, ao atacar com a mao dominante, ele tem reducao de 1d6 de fracasso ao fazer algum teste de ataque. Exemplo: Jonny precisou fazer um teste de forca, Jonny tem 4 de forca,a CD para o teste é 2. No teste, Jonny ao rolar 4d6, tirou 3 fracassos nos 4 dados, com essa habilidade, Jonny pode reduzir 3 fracassos para 2 fracassos, assim tornando o teste um sucesso. A cada dois niveis evoluidos, o jogador ganha +1d6 de reducao de fracasso em testes de ataque.
+
+APARÊNCIA HUMANA
+CUSTO: 6 CARMA
+Um personagem meta-humano com a qualidade Aparência Humana pode se passar por humano na maioria das
+circunstâncias. PdMs humanos respondem com atitudes
+neutras com relação a tais personagens ao fazer testes
+de perícias Sociais (p. XX), mesmo aqueles humanos que
+sejam especialmente preconceituosos contra meta-humanos. O personagem pode sofrer uma animosidade maior
+de PdMs que sejam preconceituosos contra humanos e
+que o confundam com um humano ou não confiem nos
+seus motivos para tentar parecer humano. Apenas elfos,
+anões e orks podem escolher a qualidade Aparência Humana
+
+APTIDÃO
+CUSTO: 14 CARMA
+Esta qualidade é como você se torna ainda superior ao
+melhor do mundo. Uma vez por dia, voce pode aumentar o seu maximo de alguma pericia em +1. Evolui +1 a cada 3 niveis evoluidos.
+
+
+ATLETA NATURAL
+CUSTO: 7 CARMA
+A habilidade Atleta Natural adiciona +2 de modificador
+na pilha de dados para testes de perícia de Corrida e Ginástica.
+
+ATRIBUTO EXCEPCIONAL
+CUSTO: 14 CARMA
+A qualidade Atributo Excepcional é o que possibilita o troll
+carismático ou o anão ágil. Ele permite que você tenha um
+atributo em um ponto acima do limite máximo do meta-
+-tipo. Por exemplo, uma personagem ork com a qualidade
+Atributo Excepcional para Força poderia levar seu atributo
+Força até 10 antes das ampliações serem aplicadas, em
+vez do limite normal, 9. O Atributo Excepcional também
+se aplica a Atributos Especiais, como Magia e Ressonância. O Trunfo não pode ser afetado pelo Atributo Excepcional (o Trunfo é aumentado por outra qualidade, Sortudo).
+Uma personagem só pode escolher Atributo Excepcional
+uma vez e apenas com a aprovação do mestre.
+
+BILÍNGUE
+CUSTO: 5 CARMA
+Personagens que tenham essa qualidade leem escrevem e
+falam um segundo idioma fluentemente. Eles podem listar
+um segundo idioma como nativo (veja Perícias de Idioma,
+p. XX). Esta qualidade só pode ser adquirida durante a criação de personagem: sua escolha dá ao personagem uma
+segunda perícia de idioma livre durante a Etapa Cinco:
+Comprar Perícias Ativas, de Conhecimento e de Idioma
+(p. XX).
+
+
+BRANDURA
+CUSTO: 8 CARMA
+Esta personagem se mistura na multidão, raramente é percebida e é facilmente esquecida. Ela é desinteressante em todos os aspectos da sua aparência física. Quem tentar
+descrever a personagem não conseguirá dizer nada mais
+preciso do que “altura mediana, forma mediana, cabelo
+normal” etc.
+Aumente o limiar para quem tentar lembrar detalhes
+específicos sobre a personagem em 1. Isso significa que
+um Teste de Memória com dificuldade Mediana (limiar 2)
+se torna um teste Difícil (limiar 3).
+Indivíduos que tentem seguir ou localizar fisicamente a
+personagem com a qualidade Brandura em um ambiente
+populoso recebem -2 de modificador na pilha de dados
+em todos os testes relacionados à sua busca. As mesmas
+penalidades são aplicadas se estiverem perguntando sobre a pessoa com base na aparência física da personagem.
+Contudo, o modificador não é aplicado a buscas mágicas
+ou na Matriz. Se a personagem adquirir tatuagens visíveis,
+cicatrizes, ciber-itens óbvios ou outros traços marcantes,
+os bônus da qualidade Brandura desaparecem até as características marcantes serem removidas da aparência da
+personagem.
+Em algumas circunstâncias e situações específicas, o
+mestre pode determinar que a Brandura não é aplicável.
+Por exemplo, uma troll com a qualidade Brandura ainda
+tem a cabeça e os ombros acima de uma multidão de humanos e ainda se destaca, não importa o quanto seus chifres possam ser normais. A personagem só recupera seu
+bônus ao deixar a situação na qual se destaca.
+Livro QuickStart Shadowrun Pag5
