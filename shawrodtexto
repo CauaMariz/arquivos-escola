@@ -1,3 +1,4 @@
+
 Meta tipos:
  humano, elfo, anão, ork e troll.
 
@@ -34,8 +35,10 @@ Criacao de personagem:
 2 - Meta-tipos: Humano, elfo, anão, ork e troll.
 3 - Atributo: Todas as racas, independente do que está no livro, tem no comeco 1D4 de atributo. Para voce tirar o valor do seu atributo, use um d4
 
-4 - Qualidades: Cada personagem comeca com 25 de Carma para gastar emmm qualidades, escolha a sua!
+4 - Qualidades: Cada personagem comeca com 25 de Carma para gastar em qualidades, escolha a sua!
 
+
+Qualidades
 AFINIDADE ESPIRITUAL
 CUSTO: 7 CARMA
 Disponível apenas para usuários de magia, a qualidade
@@ -49,7 +52,7 @@ O jogador pode usar essa habilidade para reduzir o dano recebido. Se o jogador e
 
 AFINIDADE DE MAO DOMINANTE:
 CUSTO: 9 CARMA
-Se a mao dominante do personagem for a mao direita ou esquerda, ao atacar com a mao dominante, ele tem reducao de 1d6 de fracasso ao fazer algum teste de ataque. Exemplo: Jonny precisou fazer um teste de forca, Jonny tem 4 de forca,a CD para o teste é 2. No teste, Jonny ao rolar 4d6, tirou 3 fracassos nos 4 dados, com essa habilidade, Jonny pode reduzir 3 fracassos para 2 fracassos, assim tornando o teste um sucesso. A cada dois niveis evoluidos, o jogador ganha +1d6 de reducao de fracasso em testes de ataque.
+Se a mao dominante do personagem for a mao direita ou esquerda, ao atacar com a mao dominante, ele tem reducao de 1d6 de fracasso ao fazer algum teste de ataque. Exemplo: Jonny precisou fazer um teste de forca, Jonny tem 4 de forca,a CD para o teste é 2. No teste, Jonny ao rolar 4d6, tirou 3 fracassos nos 4 dados, com essa habilidade, Jonny pode reduzir 3 fracassos para 2 fracassos, assim tornando o teste um sucesso. A cada dois niveis evoluidos, o jogador ganha +1d6 de reducao de fracasso em testes de ataque. Usável apenas uma vez por combate.
 
 APARÊNCIA HUMANA
 CUSTO: 6 CARMA
@@ -123,4 +126,795 @@ mestre pode determinar que a Brandura não é aplicável.
 Por exemplo, uma troll com a qualidade Brandura ainda
 tem a cabeça e os ombros acima de uma multidão de humanos e ainda se destaca, não importa o quanto seus chifres possam ser normais. A personagem só recupera seu
 bônus ao deixar a situação na qual se destaca.
+
+
+CAMALEÃO ASTRAL
+CUSTO: 10 CARMA
+Com a qualidade Camaleão Astral, a assinatura astral do
+personagem se mistura com o cenário do espaço astral e
+é difícil de ser detectado. Todas as assinaturas deixadas
+pelo personagem duram apenas a metade do tempo de
+outras assinaturas astrais. Indivíduos que tentem sentir
+assinaturas astrais deixadas para trás por um personagem
+com esta qualidade recebem -2 de modificador na pilha
+de dados no Teste de Sentido Astral. Apenas personagens com nível de Magia e capazes de deixar assinaturas
+astrais podem ter esta qualidade.
+
+CONCENTRAÇÃO FOCADA
+CUSTO: 4 CARMA POR NÍVEL (MÁX. 6)
+Uma tecnomante ou usuária de magia com a qualidade
+Concentração Focada tem a disciplina para manipular o
+mana ou a Ressonância de forma mais precisa do que seria
+possível. Esta precisão reduz a tensão no corpo da usuária
+de magia ou tecnomante. Ela consegue sustentar um feitiço/forma complexa com poder/nível igual ao seu nível de
+Concentração Focada sem sofrer penalidades. Por exemplo, uma usuária de magia com Concentração Focada 3
+pode sustentar um feitiço de Armadura de Poder 3 sem o
+modificador negativo na pilha de dados por sustentar um
+feitiço. Sustentar feitiços ou formas complexas adicionais
+resulta no modificador padrão de -2 na pilha de dados por
+feitiço ou forma complexa sustentada. Esta qualidade só
+pode ser escolhida por usuários de magia que possam
+conjurar feitiços e tecnomantes.
+
+CORAGEM
+CUSTO: 10 CARMA
+Quando um espírito inseto com mandíbulas gotejantes se
+aproxima, a personagem com Coragem é provavelmente
+aquela que levantará e lutará em vez dar no pé. Coragem
+dá à personagem +2 de modificador na pilha de dados em
+testes para resistir ao medo e à intimidação, incluindo o
+medo mágico induzido por feitiços ou poderes de criaturas
+
+CURANDEIRO RÁPIDO
+CUSTO: 5 CARMA
+Um personagem com a qualidade Curandeiro Rápido recebe a +2 de modificador na pilha de dados para todos os
+Testes de Cura feitos sobre/para/por ele, incluindo a cura
+mágica
+
+DESEJO DE VIVER
+CUSTO: 3 CARMA POR NÍVEL (NÍVEL MÁX. 3)
+Para cada nível em Desejo de Viver, a personagem ganha 1
+Caixa de Dano em Excesso adicional (p. XX). Essas caixas
+adicionais só permitem que a personagem receba dano
+adicional antes de morrer: elas não aumentam o limiar no
+qual a personagem fica inconsciente ou incapacitada, nem
+afetam os modificadores do dano que a personagem sofreu.
+
+ENDURECIMENTO NATURAL
+CUSTO: 10 CARMA
+Esta qualidade deixa a estrutura neural da personagem
+mais resistente a retroalimentação. Isso fornece 1 ponto
+de filtro de bioretroalimentação natural, que é cumulativo
+com um programa Filtro de Bioretroalimentação ou o firewall do tecnomante (p. XX).
+
+ENGENHOQUEIRO
+CUSTO: 11 CARMA
+O Engenhoqueiro é quem você procura quando é hora
+de botar o pé na tábua e correr. Ele é um motorista ou piloto nato. Quando está no volante/manche/controle de
+um veículo ou drone, ele tem um entendimento intuitivo
+das suas limitações e capacidades e pode levar qualquer
+máquina que controle para dar o seu melhor. Durante um
+combate ou perseguição com veículos, um Engenhoqueiro pode aumentar a Velocidade do seu veículo ou drone
+em 20 por cento ou aumentar seu modificador de Manejo em +1 (à escolha do jogador). Ele também recebe +2
+de modificador na pilha de dados ao tentar movimentos
+difíceis ou manobras no veículo. Este bônus dura 1D6 mi-
+>> CRIANDO UM SHADOWRUNNER <<
+74 QUALIDADES POSITIVAS >>
+Licenciado para vinicius vidal.
+nutos.
+O jogador pode escolher fazer este bônus durar por
+1D6 minutos adicionais, se quiser. Fazer isso força o veículo ou drone muito além dos seus limites de projeto e
+arrisca a causar um dano catastrófico. Para cada minuto
+que o personagem forçar o veículo além do período inicial
+do bônus, o veículo sofre automaticamente um ponto de
+dano de tensão (sem resistência).
+
+ESPÍRITO MENTOR
+CUSTO: 5 CARMA
+Todos precisam de alguma ajuda na vida, mesmo que venha de alguém relativamente transparente e insubstancial.
+Espírito Mentor significa que a personagem segue um espírito patrono (veja Espíritos Mentores, p. XX) que a orienta
+em sua prática de magia e fornece algumas vantagens e
+desvantagens para suas habilidades naturais. Uma personagem pode mudar de espíritos mentores, mas só pode ter
+um espírito mentor de cada vez. Para mudar de espíritos
+mentores, a personagem precisa primeiro recomprar o espírito mentor atual como se fosse uma qualidade Negativa.
+Depois, ele pode comprar a qualidade novamente para seguir um novo espírito mentor. Este custo representa o esforço de se separar de um espírito mentor e se ligar a um novo.
+Cada tradição tem um nome diferente para um espírito mentor. Magos herméticos preferem o termo “espírito
+mentor”, enquanto xamãs usam a palavra “totem” para o
+espírito que seguem. Embora os nomes possam variar, a
+forma na qual o mentor funciona é a mesma.
+Esta qualidade só está disponível para personagens que
+tenham um nível de atributo Magia.
+
+FELINO
+CUSTO: 7 CARMA
+Personagens com a qualidade Felino são dotados de uma
+elegância única, um andar furtivo e uma habilidade quase
+sobrenatural de se mover em silêncio. Eles também alegam
+sempre cair de pé, embora não costumem deixar os outros
+testarem isso. Esta qualidade adiciona +2 de modificador
+na pilha de dados para testes de perícia Esgueirar.
+
+GAMBIARRA
+CUSTO: 10 CARMA
+Gambiarra dá ao personagem o entendimento intuitivo
+do funcionamento interno e princípios básicos de dispositivos mecânicos e eletrônicos. Ele sabe como consertar o
+quebrado, renovar o desgastado, melhorar a eficiência do
+dispositivo ou força-lo a fazer coisas que os projetistas não
+pretendiam. Personagens com a qualidade Gambiarra recebem +2 de modificador na pilha de dados para os testes de
+Mecânica ao improvisar com equipamentos. Se o mestre
+decidir que o que o personagem deseja realizar é realmente possível, ele determina o limiar para o sucesso usando a
+Tabela de Construir/Consertar (p. XX) como uma orientação, depois reduz o limiar do teste em 1. Embora um Teste
+bem-sucedido da Perícia Mecânica permita que o personagem com Gambiarra realize feitos técnicos impressionantes, tudo que ele desenvolve é temporário. Exemplos do
+que o personagem pode fazer com Gambiarra incluem:
+• Improvisar um dispositivo destruído para que funcione apenas mais uma vez (ou 1D6 minutos).
+• Regular um dispositivo eletrônico para funcionar
+em um nível superior do que o normal por 1D6
+Turnos de Combate.
+• Forçar temporariamente o desempenho adicional
+dos componentes de um drone ou veículo, aumentando seu Sensor ou Manejo em +1 (se for
+combinado com os bônus de Engenhoqueiro, os
+componentes críticos do veículo ou drone queimam completamente no final da duração do esforço além dos seis limites. Neste ponto, o veículo ou
+drone se torna um enorme peso de papel).
+• Improvisar um dispositivo ou arma de uso único de
+componentes distintos (o mestre tem a palavra final sobre a disponibilidade das peças adequadas).
+• Desenvolver uma forma improvisada de contornar
+uma medida de segurança, como um raio de alarme ou placa de pressão.
+
+IMUNIDADE NATURAL
+CUSTO: 4 OU 10 CARMA
+A habilidade de tomar pequenas doses de veneno casualmente nunca pode ser subestimada. Um personagem com
+Imunidade Natural tem uma imunidade inata ou desenvolveu a imunidade a uma doença ou toxina.
+A qualidade está disponível em dois níveis. Se comprada com o nível de 4 Carma, o personagem é imune a
+uma única doença ou toxina natural. Se a Imunidade Natural
+comprada com o nível de 10 Carma, o personagem é imune
+a uma única doença ou toxina sintética (criada artificialmente). A Imunidade Natural não afeta doenças ou toxinas que
+tenham uma base mágica, como o VIVO.
+O jogador e o mestre devem concordar sobre a doença,
+droga ou veneno ao qual o personagem é imune. O personagem pode tomar uma dose da droga ou veneno e ser
+exposto à doença uma vez a cada seis horas, sem efeitos
+ruins. Qualquer dose ou exposição subsequente durante as
+próximas seis horas causa o dano normal, mas o tempo de
+recuperação do personagem é reduzido pela metade.
+Perceba que personagens com Imunidade Natural a
+uma doença podem ser vetores, infectando outros personagens sem sofrer dos efeitos prejudiciais.
+
+INDOMÁVEL
+CUSTO: 8 CARMA POR NÍVEL (MÁX. 3)
+Corpos e mentes têm limites, mas algumas pessoas têm a
+disposição para forçarem além dessas limitações. Para cada
+Licenciado nível de Indomável, a personagem recebe +1 de aumento
+em um Limite Inerente à sua escolha (Mental, Físico ou Social). Ela pode escolher três níveis e aplicá-los da forma que
+quiser (+3 em um Limite Inerente, por exemplo, ou +2 em
+um Limite Inerente e +1 em outro, ou +1 em todos os três).
+
+MEMÓRIA FOTOGRÁFICA
+CUSTO: 6 CARMA
+Uma personagem com Memória Fotográfica pode lembrar
+instantaneamente de fatos, datas, números e tudo mais
+que viu ou ouviu. A personagem ganha +2 de modificador
+na pilha de dados em todos os Testes de Memória
+
+MENTE ANALÍTICA
+CUSTO: 5 CARMA
+Mente Analítica descreve a habilidade extraordinária de
+analisar informações de forma lógica, deduzir soluções para
+problemas ou separar informações vitais de distrações e ruídos. É útil para quebrar códigos, resolver enigmas, descobrir
+armadilhas e examinar dados. Esta qualidade dá ao personagem +2 de modificador na pilha de dados para Testes de
+Lógica envolvendo o reconhecimento de padrões, análise
+de evidências, busca por pistas e solução de enigmas. Esta
+qualidade também reduz o tempo necessário para o personagem resolver um problema pela metade.
+
+
+PRIMEIRA IMPRESSÃO
+CUSTO: 11 CARMA
+A qualidade Primeira Impressão permite que o personagem entre facilmente em novos ambientes, situações,
+grupos e trabalhos. Seja se infiltrando em uma gangue,
+fazendo contatos em uma cidade nova ou obtendo um
+convite para um encontro particular, o personagem ganha
++2 temporários de modificador na pilha de dados para os
+Testes Sociais relevantes, como Negociação e Trapaça, durante o primeiro encontro. Este modificador não se aplica
+ao segundo encontro e aos subsequentes.
+
+PROGRAMADOR RÁPIDO
+CUSTO: 10 CARMA
+Uns e zeros são praticamente um idioma nativo para um
+Programador Rápido. O personagem é perito em executar uma ação específica da Matriz (que ele seleciona ao
+escolher esta qualidade) e recebe +2 de modificador na
+pilha de dados para essa ação na Matriz. Só pode ser selecionada para Ações da Matriz (p. XX) que tenham um
+teste associado.
+
+Paralisia Digital:
+CUSTO: 12 CARMA
+O personagem pode uma vez por combate tentar hackear um inimigo com a pericia Hackear para paralisa-lo, se conseguir, o inimigo fica paralisado ate o fim da cena ou ate um aliado conseguir reverter o hack feito pelo jogador.
+
+RESISTÊNCIA MÁGICA
+CUSTO: 6 CARMA POR NÍVEL (NÍVEL MÁX. 4)
+Esta é uma habilidade maravilhosa para rebater potencialmente uma Bola de Fogo. Para cada 6 de Carma
+gastos em Resistência Mágica, o personagem recebe
+um dado adicional nos Testes de Resistência a Feitiços.
+Contudo, a qualidade Resistência Mágica está sempre
+“ligada”: o personagem não pode desligá-la para receber feitiços benéficos, como Cura. Um personagem
+com Resistência Mágica não pode fazer parte de feitiços que exijam um alvo voluntário. Tais feitiços falham
+automaticamente usados em personagens resistentes
+à mágica.
+
+SORTUDO
+CUSTO: 12 CARMA
+Os dados rolam e a moeda gira a favor desta personagem
+com muita frequência, dando à ela uma chance de deixar
+outros de boca aberta com sua boa sorte. Sortudo permite que a personagem tenha um atributo Trunfo um ponto
+maior do que o máximo do meta-tipo (por exemplo, uma
+personagem humana poderia aumentar seu Trunfo para
+8). Perceba que escolher esta qualidade não aumenta realmente o nível atual de Trunfo da personagem, apenas dá
+a oportunidade para isso. O custo de Carma para ganhar
+o ponto adicional ainda deve ser pago. Esta qualidade
+só pode ser escolhida uma vez e deve ser aprovada pelo
+mestre. A qualidade Sortudo não pode ser combinada
+com Atributo Excepcional.
+
+TERRENO FAMILIAR
+CUSTO: 10 CARMA
+Se uma personagem conhece sua vizinhança melhor do
+que qualquer um (os atalhos, esconderijos e pessoas que
+pode confiar), então provavelmente ela tem a qualidade
+Terreno Familiar. Ela conhece as famílias que moram lá,
+suas histórias e o que as crianças que se mudaram estão
+fazendo, conhece as ruas melhor do que o GradeGuia,
+sabe sobre coisas que não estão no GradeGuia e sabe
+quando o GradeGuia está errado. Ela conhece a política
+das gangues, quem está trabalhando para quem e quem
+está correndo de quem. Mas não é só as ruas físicas. Dependendo da personagem, a qualidade Terreno Familiar
+pode se manifestar de formas específicas a quem ou o
+que ela é. Ao escolher esta habilidade, selecione um dos
+bônus abaixo:
+• Aclimatação Astral: A personagem está aclima-tada à contagem de fundo do seu Terreno Familiar. Em toda uma vida de familiaridade, ela aprendeu a trabalhar por ai, permitindo ignorar até dois
+pontos da contagem de fundo.Por exemplo, se a
+contagem de fundo do seu Terreno Familiar for
+3, ela vê apenas com uma redução de 1 em seus
+testes de Magia. Se a contagem de fundo for 5,
+para ela é apenas 3, e assim por diante. Esta qualidade funciona apenas no Terreno Familiar e não
+tem benefícios em outros lugares.
+• Conheço um Cara: A personagem construiu
+relações duradouras com as pessoas da sua vizinhança. Essas pessoas não são contatos, mas
+elas a reconhecem como um dos seus e provavelmente farão favores ou conversarão com ela.
+PdMs da vizinhança do Terreno Familiar da personagem são considerados amistosos em relação a ela, sempre que os encontra (a menos que
+tenha feito algo para mudar isso). a personagem
+recebe +2 de Crédito de Rua para qualquer Negociação com pessoas do seu Terreno Familiar.
+• Território Digital: Este é para uma tecnauta ou
+tecnomante que tenha uma central específica
+para chamar de sua. Ela pode realmente conhecer
+o ponto ou pode ser um local que ela frequente
+o bastante para considerar como sua casa. A personagem recebe +2 bônus nos Testes de Matriz
+enquanto estiver na central do seu Terreno Familiar. Bônus de outras Qualidades podem acumular com o Terreno Familiar. Se a personagem ficar
+sem frequentar esta central por mais de seis meses, ela perde a qualidade Terreno Familiar, pois
+não está mais tão familiarizada quanto deveria.
+• Transportador: Esta personagem conhece o
+desenho das ruas, becos, túneis de serviço etc.
+como a palma da mão. Ela sabe quando o GradeGuia está errado e quando ele está desatualizado. Quando o transportador está em seu Terreno
+Familiar, ele tem +2 de modificador na pilha de
+dados nos Testes de Evasão.
+• Em Fuga: Esconder e ficar na moita são partes do
+cotidiano desta shadowrunner. Em Fuga significa
+que a personagem tem um conhecimento enciclopédico de refúgios, tocas, edifícios abandonados, qualquer lugar fora de mão não reivindicado por gangues ou moradores de rua. Quando
+precisa encontrar um local seguro na correria,
+esta personagem recebe +2 de bônus na pilha
+de dados no teste de Intuição + perícia de rua
+apropriada para achar o lugar certo para esconder rápido.
+• Política de Rua: Esta personagem conhece as
+gangues de rua, as operações criminosas e as
+afiliações por baixo dos panos que são o tecido
+social e político do seu Terreno Familiar. Ela recebe +2 de modificador na pilha de dados para
+todos os testes de Conhecimento relacionados a
+gangues e suas operações.
+Esta qualidade pode ser selecionada múltiplas vezes,
+sendo selecionada uma das categorias descritas acima em
+cada escolha.
+
+ULTRAFLEXIBILIDADE
+CUSTO: 6 CARMA
+Uma personagem com Ultraflexibilidade tem juntas extraordinariamente flexíveis e pode dobrar e contorcer o
+seu corpo em posições extremas. A personagem recebe
++2 de modificador na pilha de dados para todos os testes de Arte da Fuga. A personagem também pode se espremer em espaços pequenos e apertados onde personagens menos flexíveis não conseguiriam. Também são
+ótimas em festas e bares.
+
+
+VITALIDADE
+CUSTO: 9 CARMA
+Personagens com a qualidade Vitalidade absorvem o
+dano com maior facilidade do que outros. Tais personagens ganham +1 de modificador na pilha de dados em
+seu Corpo ao fazer testes de Resistência a Dano. 
+
+
+QUALIDADES
+NEGATIVAS
+
+ALERGIA
+BÔNUS: 5 A 25 CARMA
+Uma personagem com a qualidade Alergia é alérgica à
+uma substância ou condição encontrada em seu ambiente. O valor da qualidade depende de dois fatores. O primeiro é se a substância ou condição é Incomum (2 Carma)
+ou Comum (7 Carma). Depois, determine a gravidade dos
+sintomas: Leve (3 Carma), Moderada (8 Carma), Grave (13
+Carma), ou Extrema (18 Carma). Adicione os valores adequados para descobrir o valor final. Por exemplo, o valor
+de uma Alergia Moderada Incomum (Prata) é de 10 Carma (2+8 Carma). Se a personagem for atacado com uma
+substância da sua alergia, ela perde 1 dado do seu Teste de
+Resistência para cada estágio de gravidade da Alergia (ex.:
+1 dado para alergia Leve, 2 dados para Moderada etc.).
+
+ARRASADO
+BÔNUS: 10 CARMA
+Um personagem Arrasado está lidando com problemas
+neurológicos sofridos ou danos causados de alguma forma por GELO Negro, GELO Psicotrópico ou MQT. O problema pode se manifestar como perda da memória de
+curto ou longo prazo, apagões inesperados, enxaquecas
+constantes, sentidos reduzidos (visão, toque, olfato etc.) e distúrbios de humor, como paranoia e ansiedade. O personagem escolhe um efeito específico de Arrasado e seu
+efeito deve ser evidente o suficiente para atrapalhar o personagem e representar possíveis ganchos da trama para o
+mestre. Sempre que ele entrar na RV ou colocar um chip
+MQT o personagem deve fazer um Teste de Corpo + Vontade (4). Se fracassar, ele experimenta os efeitos físicos especificados por seis horas. Uma falha ou falha crítica neste
+teste resulta em sofrer os efeitos por 24 horas. A única forma de eliminar a qualidade Arrasado é obter o tratamento
+médico necessário para consertar o dano e, então, gastar
+o Carma para recomprar a qualidade Negativa. Contudo,
+uma vez Arrasado, o personagem continua suscetível à
+condição. Outro encontro ruim com um GELO Negro ou
+Psicotrópico ou um MQT vai trazer esta qualidade de volta. Além dos efeitos colaterais físicos que o personagem
+possa ter por ser Arrasado, ele é vulnerável ao dano causado por GELO Negro ou Psicotrópico ou MQTs. Quando
+enfrentar este GELO, o personagem deve fazer um Teste
+de Vontade (3) para conseguir confrontá-lo sem entrar
+em pânico. Se conseguir confrontar o GELO que causou
+a condição Arrasado, o personagem sofre –2 nos Testes
+de Resistência a Dano quando esses programas estiverem
+causando dano.
+Para pegar a qualidade Arrasado para MQTs, o personagem deve ter pelo menos um Vício Leve em MQTs e
+possuir os equipamentos necessários para usar MQTs.
+Para pegar a qualidade Arrasado para GELO Negro ou
+Psicotrópico, o personagem deve ser um tecnauta ou um
+tecnomante.
+
+AZAR
+BÔNUS: 13 CARMA
+A personagem é amaldiçoada: sua sorte normalmente se
+volta contra ela. Quando a personagem usar o Trunfo, lance 1D6. Se o resultado for 1, o ponto de Trunfo é gasto,
+mas tem seu efeito exatamente oposto ao pretendido. Por
+exemplo, se a personagem espera ganhar dados adicionais, ela perde tal quantidade de dados da sua pilha. Se
+a personagem gasta o Trunfo para agir primeiro no Passo
+de Iniciativa, ela acaba sendo a última. Se a personagem
+gasta o Trunfo para negar uma falha, o Azar transforma em
+uma falha crítica. A personagem sofre o Azar em apenas
+um teste de Trunfo durante a sessão de jogo. Após a personagem sofrer seu Azar, ele não precisa fazer o teste de
+Azar para outros gastos de Trunfo pela duração daquela
+sessão de jogo.
+
+BAIXO LIMIAR DE DOR
+BÔNUS: 9 CARMA
+Personagens com Baixo Limiar de Dor são especialmente
+sensíveis à dor: elas sofrem –1 de modificador de ferimento para cada 2 caixas de dano cumulativo, em vez das 3
+caixas normais. Isso afeta as faixas de danos Físico e de
+Atordoamento.
+
+BLOQUEIO DE CÓDIGO
+BÔNUS: 10 CARMA
+Um personagem com a qualidade Bloqueio de Código
+sempre tem problema com uma ação específica da Matriz. Ele recebe –2 de modificador na pilha de dados sempre que tentar aquele tipo de ação da Matriz. Bloqueio de
+Código é aplicado apenas a ações da Matriz com um teste
+associado. Ele não se aplica a ações que não precisam de
+teste (p. XX). Personagens não podem aplicar Bloqueio de
+Código para ações de hackear que provavelmente nunca
+usarão.
+
+CÓDIGO DE HONRA
+BÔNUS: 15 CARMA
+A personagem tem um Código de Honra obrigatório
+quando se trata de matar membros de um grupo específico. É uma questão de um princípio inabalável. Personagens com a qualidade Código de Honra escolhe um grupo
+específico do que não matarão ou permitirão que outros
+matem. Exemplos de grupos incluem mulheres, crianças,
+observadores inocentes ou um meta-tipo específico. Uma
+personagem pode escolher paracriaturas específicas, mas
+apenas se a paracriatura específica tiver o poder Sapiência.
+O mestre deve aprovar o grupo que o personagem define como “fora de cogitação”. Se o grupo (como crianças)
+não for encontrado regularmente nas campanhas, o mestre pode rejeitar a escolha. Se a jogadora acredita bastante
+em sua escolha, o mestre pode permitir que ela selecione
+dois grupos que não machucará (ex.: mulheres e crianças),
+um dos quais provavelmente aparecerá na campanha.
+Uma maga pode escolher, de forma legítima, não destruir
+nenhum tipo de espírito para o qual seu Espírito Mentor
+conceda um bônus na invocação. Este Código de Honra
+respeita seu Espírito Mentor e vale o Carma. Os personagens não podem escolher um grupo obscuro ou inexistente para pegar esta qualidade: não é possível ganhar Carma
+ao jurar nunca matar hamsters sapientes, por exemplo.
+Sempre que alguém tentar matar um membro da lista protegida do personagem, ele deve fazer um Teste de
+Carisma + Vontade (4). O fracasso significa que a personagem deve interromper imediatamente a violência contra
+o membro do seu grupo protegido. Se a situação forçar a
+personagem a agir contra alguém do seu grupo protegido,
+ela sempre escolherá métodos não letais. Matar um membro de um grupo que jurou proteger é uma linha que ela
+não cruzará por nenhum motivo.
+Existem desvantagens em ter um Código de Honra. Por
+exemplo, deixar testemunhas para trás. Para cada pessoa
+no grupo protegido que a personagem deixar vivo e que
+possa lembrar dela, aumente a Consciência Pública do
+personagem em 1. As opções de trabalho do personagem
+também são limitadas: ela não aceitará um trabalho se o
+objetivo for a morte de um membro de um grupo protegido e terá limitações sobre participar de uma missão com
+alta chance de causar danos colaterais aos membros do
+seu grupo protegido.
+Sempre há uma forma das coisas darem errado quando a força não letal é usada. Uma pessoa pode ter uma
+reação alérgica gravíssima contra a droga inofensiva para
+desacordá-la ou uma condição cardíaca que transforma o
+choque do taser em algo letal. Por este motivo, sempre
+que a personagem fizer uma ação violenta ou permitir que
+outros façam uma ação violenta contra um membro do
+seu grupo escolhido, o mestre lança secretamente 1D6. Se
+tirar 1, existe uma complicação imprevista do uso da força
+não letal. Com um meta-humano, pode ser uma condição
+médica grave, com um espírito, uma tentativa de banir em
+vez de destruir pode, de fato, libertar o espírito. Quando a
+complicação surgir, o mestre faz um Teste de Percepção
+(4) secreto para o personagem notar se algo deu errado.
+Se uma pessoa no grupo escolhido da personagem for
+morta, seja intencionalmente ou não, a personagem perde
+um ponto de Carma naquela aventura para cada pessoa no
+seu “grupo protegido” que tenha morrido.
+O Código de Honra também pode ter outras formas.
+Por exemplo:
+• Credo do Assassino: Uma personagem nunca
+mata alguém que não tenha sido pago para matar. Ser preciso como uma assassina, sem deixar
+danos colaterais, e ser invisível são características
+importantes daqueles que acreditam no Credo
+do Assassino. Personagens que escolham esta
+versão do Código de Honra perdem 1 ponto de
+Carma para cada assassinato não intencional e/ou
+não pago que cometerem e sua Consciência Pública aumenta em 1 para cada uma dessas mortes.
+• Código do Guerreiro: A personagem que segue
+o Código do Guerreiro mantém um senso rígido
+de honra pessoal. Em 2075, é provável que esta
+personagem não mate uma pessoa desarmada,
+faça uma ação letal contra um oponente que esteja alheio ou despreparado para o ataque (ex.um guarda que não saiba que a runner está lá) ou
+realize voluntariamente uma ação que poderia
+matar alguém indefeso (ex.: de uma bala perdida
+ou permitir que alguém seja morto por um atirador de elite). A personagem perde 1 Carma para
+cada pessoa desarmada e indefesa que matar ou
+permitir a morte através de suas ações. 
+
+DEPENDENTES
+BÔNUS: 3, 6 OU 9 CARMA
+Um personagem com a qualidade Dependentes tem um
+ou mais entes queridos que dependem dele para o suporte emocional e financeiro. Dependentes podem incluir filhos, pais, cônjuges ou amantes, irmão/irmã ou um velho
+amigo. Atender às necessidades de um dependente deve
+ocupar uma boa quantidade do tempo do personagem,
+assim como do seu dinheiro. Aumente a quantidade de
+tempo necessária para aprender uma nova perícia ou melhorar uma perícia existente em cinquenta por cento. Veja
+a seção Progressão do Personagem na p. XX para mais
+informações sobre quanto tempo leva para melhorar as
+perícias. Aumente também o tempo base para qualquer
+projeto de longo prazo em cinquenta por cento. Um dependente também pode ser um problema de outras formas: entrando no caminho, dividindo a moradia, se envolvendo no trabalho do personagem, pegando o carro
+emprestado, ligando nos momentos mais inoportunos etc.
+Por 3 Carma, o dependente é uma irritação ocasional:
+aparecendo de forma inesperada (como quando o personagem precisa ir para um encontro), precisando de suporte emocional, favores ou outras confirmações de amizade/
+compromisso e, ocasionalmente, dinheiro. Exemplos de
+dependentes deste nível incluem: irmão folgado, namorado(a) de longa data ou um filho que não more com o
+personagem, mas para quem ele pague pensão e visite
+regularmente. Aumente o custo do estilo de vida do personagem em 10 por cento a cada mês.
+Por 6 Carma, o dependente é uma inconveniência regular: precisando de atenção e compromisso regularmente, se envolvendo nos negócios do personagem, morando
+junto. Exemplos deste nível incluem: companheiro(a) de
+relação estável/esposa/marido ou membro da família, um
+filho de quem o personagem compartilhe a custódia e tenha em casa rotineiramente (a cada 2 fins de semana etc.)
+ou um filho pequeno ou irmão por quem o personagem
+seja responsável. Aumente o custo do estilo de vida do
+personagem em 20 por cento a cada mês.
+No nível de 9 Carma, o dependente é um membro
+próximo ou parceiro e mora com o personagem. O dependente é uma mancha no tempo e nos recursos do
+personagem e/ou exige cuidado e atenção especiais que
+limitam a disponibilidade do personagem para missões ou
+ações específicas. Exemplos desses dependentes incluem
+uma grande família que compartilhe a mesma moradia,
+pais ou avós com necessidades médicas ou físicas e a custódia integral de filho(s). Aumente o custo do estilo de vida
+do personagem em 30 por cento a cada mês.
+
+ELFO POSER
+BÔNUS: 6 CARMA
+O Elfo Poser é um personagem humano que quer ser um
+elfo. Ele se associa com elfos o máximo possível, fala como
+elfos e altera sua aparência para parecer um elfo. Personagens com esta qualidade podem passar por cirurgia cosmética para ter orelhas e olhos élficos e podem se passar
+por elfos com sucesso e evitar os modificadores Sociais
+negativos associados ao fato de não ser elfo.
+Elfos de verdade consideram Elfos Poser uma vergonha, muitos humanos pensam neles como vendidos e
+outros meta-tipos geralmente consideram os posers patéticos. Se um elfo descobrir o segredo do personagem, provavelmente ele o tratará com desprezo e hostilidade (veja
+a Tabela de Modificadores Sociais, p. XX). Um elfo poser
+exposto também pode enfrentar um estigma de humanos
+preconceituosos como um “traidor da raça”.
+Apenas personagens humanos podem assumir a qualidade Elfo Poser.
+
+ESTILO DISTINTO
+BÔNUS: 5 CARMA
+Uma personagem com a qualidade Estilo Distinto tem
+pelo menos um aspecto da sua aparência, maneirismo ou
+personalidade que a torna memorável de forma inconveniente. Escolhas para Estilo Distinto incluem, entre outros:
+tatuagens que não podem ser escondidas facilmente, um
+sotaque ou forma de falar incomum, escolhas de roupas
+bizarras, cicatrizes, símbolos de gangues ou pessoais, ampliações personalizadas e berrantes e modificações não
+meta-humanas, como uma cauda. Perceba que o que é
+distinto em uma cultura ou local pode não ser em outra.
+O Estilo Distinto que o jogador escolhe torna sua personagem fácil de ser lembrada. Qualquer um que tente
+identificar, rastrear ou localizar fisicamente esta personagem (ou obter informações através da coleta de dados)
+recebe +2 de modificador na pilha de dados nos testes
+relevantes. Se um PdM fizer um Teste de Memória (p. XX)
+para determinar o quanto se lembra da personagem, reduza o Limiar de Dificuldade em 1, até um mínimo de 1.
+Esta qualidade é de natureza física e não se aplica a
+buscas astrais. Esta qualidade só pode ser escolhida uma
+vez. Esta qualidade é incompatível com Brandura.
+
+FAROL ASTRAL
+BÔNUS: 10 CARMA
+A assinatura astral de um personagem com Farol Astral
+parece, bem, um farol: altamente visível no plano astral. A
+assinatura também dura o dobro de tempo do que duraria
+sem a qualidade Farol Astral. Outros que tentem senti-la
+recebem -1 no limiar do seu teste de Sentido Astral para
+obter informações sobre ela. Apenas personagens com
+nível de Magia podem ter esta qualidade.
+
+
+Tecnauta Leigo:
+BONUS: 10 CARMA
+O jogador sempre que tentar uma acao com algo envolvendo tecnologia, sofrerá uma penalidade de -1d6 no teste.
+
+
+GREMLINS
+BÔNUS: 4 CARMA POR NÍVEL (MÁX. 4)
+
+Personagens com a qualidade Gremlins não se dão bem
+com tecnologia. Dispositivos falham inexplicavelmente,
+software travam inesperadamente, veículos recusam a dar
+partida, componentes ficam excepcionalmente frágeis ao
+toque e conexões sem fio sofrem problemas e interferências estranhas sempre que ele está envolvido.
+Para cada nível (máximo de 4), reduza o número de 1s
+jogados para obter uma falha (p. XX) em 1 sempre que
+a personagem estiver tentando usar um dispositivo moderadamente sofisticado. Por exemplo, uma personagem
+com uma pilha de dados 8 e Gremlins nível 2 (8 de Carma)
+ativaria uma falha se dois ou mais 1s resultassem do teste (em vez dos 4 normais). O mestre também pode exigir
+que o personagem faça um teste para a operação de algo
+que normalmente teria sucesso automático para ver se
+uma falha ocorre.
+Ao descrever os efeitos de uma falha causada por
+Gremlins, o mestre deve brincar com a noção de um defeito mecânico ou eletrônico particularmente estranho. Alguns exemplos de falhas induzidas por Gremlins incluem:
+um pente caindo de uma pistola ao tentar um tiro crítico,
+um teclado queimando inexplicavelmente ao inserir um
+código para desarmar um sistema de alarme ou a interface
+de com-link convertendo para Sperethiel no meio da sentença ao tentar acessar um nodo restrito.
+Perceba que Gremlins é uma qualidade Negativa: seus
+efeitos atrapalham o personagem (e provavelmente divertem os outros). A personagem não pode usar sua qualidade Gremlins para causar dano aos equipamentos de alta
+tecnologia de um oponente ao simplesmente tocá-los.
+Qualquer coisa que a personagem tente sabotar usando apenas os Gremlins funcionará perfeitamente. (Obviamente, ele pode tentar formas normais de sabotagem,
+mas os Gremlins atrapalharão seus esforços.)
+Este efeito é aplicado apenas a equipamentos externos
+e não afeta ciber-itens, biônicos ou outros implantes.
+
+INCOMPETENTE
+BÔNUS: 5 CARMA
+Um personagem Incompetente tem uma falta total de
+conhecimento ou habilidade com um grupo de perícias
+Ativas específico, ou pior: talvez ele tenha um conhecimento vago das perícias contidas no grupo, mas não tem
+a coordenação nem a compreensão para chegar perto de
+executá-las adequadamente. Não importa quanto esforço coloque nessa área, ele simplesmente não consegue
+entendê-la. Seria preciso um milagre para ele, de alguma
+forma, passar do nível “fraco” nessas perícias.
+Incompetente não pode ser aplicado a perícias de Conhecimento ou Idioma. O personagem Incompetente é
+tratado como tendo o nível de perícia “alheio” para todas
+as perícias no grupo (veja Tabela de Nível de Perícia, p.
+XX).
+Em alguns casos, pode ser necessário um Teste de
+Sucesso até mesmo para tarefas que são naturais para a
+maioria das pessoas. Personagens não podem possuir o
+grupo de perícias para o qual tenham a qualidade Incompetente. Se um equipamento conceder um bônus ou precisar do uso de uma perícia específica na qual o personagem seja Incompetente, ele não recebe os benefícios do
+equipamento.
+Os mestres estão livres para rejeitar escolhas que se
+revelem irrelevantes ou exploradoras no jogo, como Incompetente: Ar Livre em uma campanha totalmente baseada em uma arcologia. (Isso deve ser óbvio, mas por via
+das dúvidas: Personagens nunca podem escolher Incompetente para um grupo de perícias que sejam fisicamente
+incapazes de usar. Um não mago não pode pegar Incompetente em Feitiçaria, Convocação ou Encantar, um não
+tecnomante não pode ser Incompetente em uma perícia
+que precise de Ressonância, e assim por diante.)
+Incompetente só pode ser comprado uma vez.
+
+INCULTO
+BÔNUS: 8 CARMA
+Um personagem Inculto não é debilitado mentalmente:
+ele apenas nunca teve a oportunidade de aprender. Seja
+por ele e sua família estarem isolados em muquifos, serem desSINados ou desprivilegiados de outra forma, ele
+não teve acesso ao sistema de educação. Ele só tem um
+conhecimento rudimentar da leitura, escrita e aritmética.
+Personagens com a qualidade Inculto são considerados “alheios” em perícias Técnicas, de Conhecimento Acadêmico e Profissional que não possuam (veja Níveis de Perícias, p. XX) e não podem fazer testes-padrão para essas
+perícias. O mestre também pode exigir que o personagem
+faça Testes de Sucesso para tarefas comuns que o morador típico dos cortiços faz corriqueiramente. Além disso, o
+custo de Carma para aprender novas perícias ou melhorar
+as existentes nessas categorias é o dobro do nível normal
+(incluindo na criação do personagem) e é possível que o
+personagem nunca aprenda alguns grupos de perícia que
+pertençam a essas categorias.
+
+INSÔNIA
+BÔNUS: 10 OU 15 CARMA
+Uma personagem com a qualidade Insônia tem problemas para dormir e raramente se sente descansada. Geralmente, é apenas um incômodo. Contudo, para runners,
+isso pode ser um problema sério, quando dependem da
+capacidade de descansar a cada oportunidade para ficarem atentos. A Insônia pode aumentar a quantidade de
+tempo que a personagem leva para recuperar do dano de
+Atordoamento.
+No nível de 10 Carma, antes da personagem lançar seu
+Corpo + Vontade para recuperar o dano de Atordoamento, o personagem faz um Teste de Intuição + Vontade (4).
+Se a personagem tiver sucesso no teste, ela não é impedida pela Insônia e se recupera normalmente do dano de
+Atordoamento. Ela também recupera 1 ponto de Trunfo
+após 8 horas de sono tranquilo. Se a personagem fracassar, dobre quantidade de tempo que levaria para se recuperar do dano de Atordoamento. Então, em vez de curar
+um número de caixas de dano de Atordoamento em uma
+hora, agora leva duas horas por teste. Se a personagem
+for afetada pela Insônia, ela não renova o seu Trunfo e não
+pode renová-lo nas próximas 24 horas. No nível de 15 Carma, o fracasso no Teste de Vontade + Intuição (4) significa que todos os esforços para recuperar do dano de Atordoamento através de descanso
+são negados pelo mesmo período e a personagem deve
+tentar de novo depois. Nenhum dano de Atordoamento é
+recuperado pela tentativa devido à insônia que a personagem sofre e ela deve esperar 24 horas antes do seu Trunfo
+renovar.
+
+
+MÃOS INSTÁVEIS
+BÔNUS: 7 CARMA
+Uma personagem com Mãos Instáveis tem tremores leves que afetam a destreza e a sutileza em suas mãos. A
+personagem sofre –2 de modificador na pilha de dados
+em todos os testes baseados em Agilidade quando os sintomas se manifestarem. A condição pode ser fisiológica
+(um distúrbio genético ou nervos danificados não tratados, por exemplo), causada por um trauma psicológico
+ou até mesmo um sintoma da idade. Algumas ampliações
+ou remédios podem mascarar esses sintomas em circunstâncias normais. Sob situações mais estressantes durante
+uma incursão, existe uma chance da condição Mãos Instáveis reaparecer. A personagem faz um Teste de Agilidade
++ Corpo (4) após um encontro estressante (combate, por
+exemplo). Um teste bem-sucedido significa que a personagem não sofre os sintomas desta condição (desta vez).
+Um fracasso faz as dificuldades relacionadas com as mãos
+instáveis reaparecerem e elas continuam com a personagem pelo resto da incursão.
+
+
+PARALISIA DE COMBATE
+BÔNUS: 12 CARMA
+Uma personagem com Paralisia de Combate congela no
+combate. No primeiro Teste de Iniciativa da personagem,
+ele divide o seu Valor de Iniciativa naquela rodada pela
+metade (arredondado para cima). Nos Turnos de Combate subsequentes, a personagem pode lançar sua Iniciativa
+normal. Paralisia de Combate também dá à personagem –3
+de modificador na pilha de dados nos Testes de Surpresa.
+Se a personagem precisar fazer um Teste de Compostura
+enquanto estiver sob disparos ou em uma situação similar
+de combate, o mestre aplica +1 de modificador no limiar. 
+
+RUDE
+BÔNUS: 14 CARMA
+O personagem com a qualidade Rude tem dificuldade em
+interagir com os outros. Ele age impulsivamente, exagera em qualquer provocação percebida e costuma fazer o
+que aparece na cabeça sem considerar as consequências
+(ou seja, mostra o dedo para o Sr. Johnson, chama um troll
+bêbado de “Trog” ou responde a uma provocação casual
+de um runner rival com um soco na cara). Todos os Testes
+Sociais feitos pelo personagem para resistir a agir de forma imprópria ou impulsiva recebem –2 de modificador na
+pilha de dados.
+Além disso, o custo para aprender ou melhorar Perícias Sociais é dobrado para personagens Rudes (incluindo
+na criação do personagem) e eles nunca podem aprender
+grupos de perícias Sociais. Personagens Rudes são tratados como “alheios” em perícias Sociais que não tiverem
+Nível 1 ou mais (veja Níveis de Perícias, p. XX). O mestre pode exigir que o personagem faça Testes de Sucesso
+para situações sociais que não representam dificuldade
+para personagens normais.
+
+SINADO (CAMADA)
+BÔNUS: 5 A 25 CARMA
+Existem quatro tipos de SINs que entram na qualidade
+SINado (Camada): SIN Nacional, SIN Criminoso (seja Corporativo ou Nacional), SIN Corporativo Limitado ou Nato
+Corporativo. Indivíduos com SINs são obrigados por lei a
+sempre transmitirem seus SINs. Um SIN legal é necessário
+para todas as compras legais. Isso as transforma em coisas muito úteis, então os desSINados geralmente se viram
+usando SINs falsos (p. XX) para poderem participar da sociedade.
+
+SISTEMA SENSÍVEL
+BÔNUS: 12 CARMA
+Uma personagem com a qualidade Sistema Sensível tem
+problemas imunossupressores com implantes cibernéticos. Duplique todas as perdas de Essência causadas por
+ciber-itens. Implantes biônicos, independente da forma
+que foram cultivados, são rejeitados pelo corpo da personagem.
+Esta qualidade funciona diferente para personagens
+que sejam tecnomantes ou Despertos e, portanto, nunca planejam colocar implantes. Indivíduos despertos ou
+tecnomantes continuam totalmente capazes de canalizar
+mana ou usar Ressonância, mas são potencialmente mais
+suscetíveis ao Dreno ou ao Enfraquecimento. Uma usuária
+de magia ou tecnomante com Sistema Sensível deve fazer
+um Teste de Vontade (2) antes dos Testes de Dreno ou Enfraquecimento. O fracasso neste teste resulta nos Valores
+de Dreno ou Enfraquecimento aumentando em +2 para
+aquele Teste específico de Dreno ou Enfraquecimento,
+enquanto a energia que viaja pelo seu corpo causa mais
+dano ao seu Sistema Sensível.
+
+VERTIGEM DE SENSORAMA
+BÔNUS: 5 CARMA
+Personagens que sofrem de Vertigem de Sensorama experimentam sensações de desorientação sempre que
+trabalham com realidade aumentada, realidade virtual ou
+sensorama (incluindo neuroconexões, fuso-simuladores e
+conexões de imagem). Tais personagens recebem –2 no
+modificador na pilha de dados para todos os testes ao interagir com RA, RV ou sensoramas.
+
+
+5- Pericias: a pericia você compra de acordo com seus pontos ganhos ao escolher alguma prioridade na tabela de prioridade. Exemplo: na prioridade A na tabela de prioridades, você ganha 32 pontos de pericia, porem apenas Anao, ork e trolls podem ter esse nível de prioridade. Durante os dois primeiros níveis, o personagem tem o limite de cada pericia ate 5.
+
+| Perícia (pt-BR)                          | Nome original (inglês) | Atributo associado |
+| ---------------------------------------- | ---------------------- | ------------------ |
+| **Acrobacia**                            | Gymnastics             | Agilidade          |
+| **Armas automáticas**                    | Automatics             | Agilidade          |
+| **Armas brancas**                        | Blades                 | Agilidade          |
+| **Armas de fogo longas**                 | Longarms               | Agilidade          |
+| **Armas de fogo curtas (Pistolas)**      | Pistols                | Agilidade          |
+| **Artes marciais / Combate desarmado**   | Unarmed Combat         | Agilidade          |
+| **Assensar (Sentido Astral)**            | Assensing              | Intuição           |
+| **Atuação / Performance**                | Performance            | Carisma            |
+| **Banimento (Espíritos)**                | Banishing              | Magia              |
+| **Biotecnologia**                        | Biotech                | Lógica             |
+| **Brigar (Clubes, cacetetes etc.)**      | Clubs                  | Agilidade          |
+| **Camuflagem / Furtividade**             | Sneaking               | Agilidade          |
+| **Combate astral**                       | Astral Combat          | Força de Vontade   |
+| **Compilar (Tecnomania)**                | Compiling              | Intuição           |
+| **Computador**                           | Computer               | Lógica             |
+| **Condução de aeronaves**                | Pilot Aircraft         | Reação             |
+| **Condução de veículos terrestres**      | Pilot Ground Craft     | Reação             |
+| **Condução de andadores / mechs**        | Pilot Walker           | Reação             |
+| **Conjuração (Invocar espírito)**        | Summoning              | Magia              |
+| **Cantar / Enganar / Manipular**         | Con                    | Carisma            |
+| **Cortar / Decompilar (Tecnomania)**     | Decompiling            | Intuição           |
+| **Demolições**                           | Demolitions            | Lógica             |
+| **Desarme / Fuga**                       | Escape Artist          | Agilidade          |
+| **Desfarce / Disfarce**                  | Disguise               | Intuição           |
+| **Etiqueta / Boas maneiras**             | Etiquette              | Carisma            |
+| **Exploração / Sobrevivência urbana**    | Survival               | Intuição           |
+| **Expressão corporal (Palming)**         | Palming                | Agilidade          |
+| **Ferreiros / Mecânicos industriais**    | Industrial Mechanic    | Lógica             |
+| **Forense / Falsificação**               | Forgery                | Lógica             |
+| **Guerra cibernética (Combate virtual)** | Cybercombat            | Lógica             |
+| **Gritar / Intimidar / Ameaçar**         | Intimidation           | Carisma            |
+| **Hackear**                              | Hacking                | Lógica             |
+| **Hardware / Manutenção Matrix**         | Hardware               | Lógica             |
+| **Liderança**                            | Leadership             | Carisma            |
+| **Magia ritual (Arcana)**                | Arcana                 | Lógica             |
+| **Medicina / Primeiros socorros**        | First Aid              | Lógica             |
+| **Mergulho (Aquático)**                  | Diving                 | Corpo              |
+| **Navegação**                            | Navigation             | Intuição           |
+| **Negociação**                           | Negotiation            | Carisma            |
+| **Percepção**                            | Perception             | Intuição           |
+| **Programação / Software**               | Software               | Lógica             |
+| **Registro (Tecnomania)**                | Registering            | Intuição           |
+| **Religião / Instrução**                 | Instruction            | Carisma            |
+| **Rastreamento**                         | Tracking               | Intuição           |
+| **Recuperação / Corrida**                | Running                | Corpo              |
+| **Reparo de drones / robôs**             | Cybertechnology        | Lógica             |
+| **Sumô / Natação**                       | Swimming               | Corpo              |
+| **Tecnologia / Engenharia**              | Hardware / Software    | Lógica             |
+| **Teoria mágica (Alquimia)**             | Alchemy                | Magia              |
+| **Técnicas eletrônicas ofensivas**       | Electronic Warfare     | Lógica             |
+
+
+Algumas perícias como Alchemy, Arcana, Assensing, Summoning são exclusivas para personagens mágicos (Magos, Xamãs, Adepts, etc.).
+
+Perícias como Compiling, Registering e Decompiling são para Tecnomanos (Technomancers).
+
+
+| Perícia (pt-BR)            | Exige magia? | Observação                                         |
+| -------------------------- | ------------ | -------------------------------------------------- |
+| **Magia (Spellcasting)**   | ✅            | Essencial para lançar feitiços                     |
+| **Conjuração (Summoning)** | ✅            | Invoca espíritos                                   |
+| **Banimento (Banishing)**  | ✅            | Dispersa espíritos                                 |
+| **Combate Astral**         | ✅            | Útil apenas para quem enxerga o plano astral       |
+| **Assensar (Assensing)**   | ✅            | Ler auras no plano astral                          |
+| **Alquimia (Alchemy)**     | ✅            | Usar fórmulas mágicas                              |
+| **Arcana**                 | Opcional       | Útil para estudo de magia, útil mesmo sem ser mago |
+
+| Perícia (pt-BR)              | Exige Technomancer? | Observação       |
+| ---------------------------- | ------------------- | ---------------- |
+| **Compilar (Compiling)**     | ✅                   | Cria Sprites     |
+| **Decompilar (Decompiling)** | ✅                   | Dispersa Sprites |
+| **Registrar (Registering)**  | ✅                   | Controla Sprites |
+
+| Perícia (pt-BR)         | Precisa de equipamento? | Observação                                   |
+| ----------------------- | ----------------------- | -------------------------------------------- |
+| **Hacking**             | ✅                       | Precisa de um cyberdeck ou ser Technomancer  |
+| **Cybercombate**        | ✅                       | Lutar na Matrix                              |
+| **Guerra Eletrônica**   | ✅                       | Interferir com sinais, detectar dispositivos |
+| **Computador**          | Opcional                | Usos básicos de Matrix                       |
+| **Software / Hardware** | Opcional                | Modificar ou criar programas/dispositivos    |
+
+
+pag 94
+
 Livro QuickStart Shadowrun Pag5
