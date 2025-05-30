@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cadastro</title>
+  <link rel="stylesheet" href="../style/style.css">
+</head>
+
+<body>
+
+  <div class="content">
+    <form action="../php/cadastroConfig.php" method="post">
+
+      <p class="title">Cadastra-se</p>
+
+      <div class="firstGroup">
+        <input type="text" name="nameUser" placeholder="Insira seu nome: " required>
+        <input type="text" name="cursoUser" placeholder="Insira seu curso: " required>
+      </div>
+
+      <div class="secnGroup">
+        <input type="text" name="periodoUser" placeholder="Insira seu periodo: " required>
+        <input type="number" name="raUser" placeholder="Insira seu RA: " required>
+      </div>
+
+      <button type="submit">Cadastrar</button>
+    </form>
+  </div>
+
+</body>
+
+</html>
