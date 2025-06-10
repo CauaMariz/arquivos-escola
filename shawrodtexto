@@ -22,6 +22,9 @@ Se o jogador quiser usar uma pericia que nao tem, pode rolar a quantidade de dad
 
 Limites: Em shadowrnu existe os lmites de um personagem, tanto limites fisicos, quantos de armas e outros.
 
+INICIATIVA
+Reação + Intuição + Dados de Iniciativa de modificadores de Implantes = número de dados jogados para determinar o
+Valor de Iniciativa
 
 Combate:
 Cada turno dura 6s
@@ -581,42 +584,158 @@ modificador na pilha de dados para todos os testes ao interagir com RA, RV ou se
 | Perícia (pt-BR)                          | Nome original (inglês) | Atributo associado |
 | ---------------------------------------- | ---------------------- | ------------------ |
 | **Acrobacia**                            | Gymnastics             | Agilidade          |
-| **Armas                                  |                        | Agilidade          |
-| **Assensar (Sentido Astral)**            | Assensing              | Intuição           |
+| **Armas                                  |                        | Agilidade          | 
+| **Assensar (Sentido Astral)**            | Assensing              | Intuição           | Treinada tecnomante
 | **Atuação / Performance**                | Performance            | Carisma            |
-| **Biotecnologia**                        | Biotech                | Lógica             | Tecnauta e tacnomante
+| **Biotecnologia**                        | Biotech                | Lógica             | Treinada Tecnauta 
 | **Brigar (Clubes, cacetetes etc.)**      | Clubs                  | Agilidade          |
 | **Camuflagem / Furtividade**             | Sneaking               | Agilidade          |
-| **Combate astral**                       | Astral Combat          | Força de Vontade   | Tecnauta e tacnomante
-| **Compilar (Tecnomania)**                | Compiling              | Intuição           | Tecnauta e tacnomante
-| **Computador**                           | Computer               | Lógica             | Tecnauta e tacnomante
+| **Combate astral**                       | Astral Combat          | Força de Vontade   | Treinada  tacnomante
+| **Computador**                           | Computer               | Lógica             | 
 | **Condução de veiculos **                | Pilot Aircraft         | Reação             |
 | **Enganar                                | Con                    | Carisma            |
 | **Desarme / Fuga**                       | Escape Artist          | Agilidade          |
 | **Desfarce / Disfarce**                  | Disguise               | Intuição           |
 | **Diplomacia**                           |                          Carisma           
 | **Sobrevivência       **                 | Survival               | Intuição           |
-| **Forense / Falsificação**               | Forgery                | Lógica             |
-| **Combate virtual**                      | Cybercombat            | Lógica             |
-| **Gritar / Intimidar / Ameaçar**         | Intimidation           | Carisma            |
-| **Hackear**                              | Hacking                | Lógica             |
-| **Hardware / Manutenção Matrix**         | Hardware               | Lógica             |
+| **Forense / Falsificação**               | Forgery                | Lógica             | Treinada face
+| **Combate virtual**                      | Cybercombat            | Lógica             | Treinada tecnauta
+| ** Intimidar                             | Intimidation           | Carisma            |
+| **Hackear**                              | Hacking                | Lógica             | Treinada tecnauta
+| **Hardware / Manutenção Matrix**         | Hardware               | Lógica             | Treinada fusor
 | **Liderança**                            | Leadership             | Carisma            |
-| **Medicina / Primeiros socorros**        | First Aid              | Lógica             |
+| **Medicina                               | First Aid              | Lógica             | Treinada socorrista
+| ** Primeiros socorros**                  |                        | Lógica             | 
 | **Mergulho (Aquático)**                  | Diving                 | Corpo              |
 | **Navegação**                            | Navigation             | Intuição           |
 | **Negociação**                           | Negotiation            | Carisma            |
 | **Percepção**                            | Perception             | Intuição           |
 | **Persuacao**     |                      |                        | Carisma
-| **Programação / Software**               | Software               | Lógica             |
+| **Programação / Software**               | Software               | Lógica             | treinada tecnauta
 | **Religião / Instrução**                 | Instruction            | Carisma            |
 | **Rastreamento**                         | Tracking               | Intuição           |
 | **Recuperação / Corrida**                | Running                | Corpo              |
-| **Reparo robos ou vertentes**            | Cybertechnology        | Lógica             |
+| **Reparo robos ou vertentes**            | Cybertechnology        | Lógica             | treinada fusor
 | **Tecnologia / Engenharia**              | Hardware / Software    | Lógica             |
 | **Tatica                                 |                        | Intuição           |
 
 
+Em shadowrun run, nao usamos classes como d&d, mas sim arquetipos:
+
+Especialistas em combate, armas e táticas.
+
+Street Samurai: Guerreiro urbano com cibernéticos, reflexos sobre-humanos e arsenal de armas.
+
+
+Hackers e Tecnomantes
+Dominam o mundo digital e a Matrix.
+
+Technomancer: Conecta-se à Matrix com a mente, sem necessidade de equipamento. Invoca "sprites" (programas vivos) e manipula a rede de formas únicas.
+
+Tecnauta: um tecnauta se especializa em hackear
+computadores, com-links e inforrefúgios. Seu
+trabalho envolve roubar, alterar e manipular
+dados
+
+Caras Sociais
+Manipuladores, líderes, negociadores.
+
+Face: Mestre da persuasão, blefe, intimidação e negociação. Usa charme e contatos.
+
+
+Suporte Técnico / Especialistas
+Ajudam o time com habilidades técnicas e médicas.
+
+Socorrista: Fornece primeiros socorros, medicina de campo e cura rápida.
+
+Fusor: Especialista em consertar, criar e modificar equipamentos e drones.
+
+
+
+Explicacao de cada conceito:
+
+Face: O face usa seus dedos para passar pelas
+cordas das vontades e desejos das outras
+pessoas, tocando-as como um maestro. Ele é
+um mestre da trapaça, um negociador refinado
+e, geralmente, um líder habilidoso. O face também se
+destaca ao coletar dados, seduzir ou extrair informações vitais de várias
+fontes que poderiam ajudar a tornar o seu trabalho um sucesso. Embora
+o face geralmente consiga o que quer com charme e um sorriso, ele
+sabe como ser mais contundente para fazer as pessoas entregarem
+seus segredos. As palavras são a arma escolhida do face e Carisma
+e Vontade são os dois atributos importantes do face, mas ele não tem
+problemas em usar uma Ares Predator quando a situação pede.
+
+
+Tecnauta: O trapaceiro da Matriz, o brilho do
+relâmpago no canto do seu olho virtual:
+um tecnauta se especializa em hackear
+computadores, com-links e inforrefúgios. Seu
+trabalho envolve roubar, alterar e manipular
+dados, assim como assumir o controle ou
+modificar sistemas de segurança de forma que seus
+companheiros de equipe possam entrar e sair de instalações protegidas.
+Um bom tecnauta sabe que seu trabalho pode colocá-lo no meio de
+uma ação movimentada e sabe como reagir. Seja disparando uma
+arma, desativando as armas dos outros ou enviando cada dispositivo
+eletrônico para o lugar do ataque, ele tem muitas opções para evitar
+se envolver no combate em desenvolvimento. Um tecnauta nunca viaja
+sem seu ciberdeck (p. XX), a ferramenta da sua arte. Lógica, Intuição e
+Vontade podem ser atributos importantes para o personagem tecnauta.
+
+
+Tecnomante: Algumas pessoas invadem a Matriz
+com ferramentas físicas, mas outras têm a
+habilidade de entrar com nada além das suas
+mentes. Essas pessoas são tecnomantes.
+Um tecnomante pode acessar a Matriz com
+sua mente através de uma conexão intrínseca
+que não é totalmente entendida, até mesmo
+em 2075, embora existam muitas pessoas que pagariam bastante
+para descobrir como funciona. Lógica, Intuição e
+Força podem ser atributos importantes para o tecnomante.
+
+
+Fusor: Algumas pessoas dirigem carros, outras usam
+veículos como uma extensão do seu corpo,
+como um conjunto adicional de membros.
+Um fusor é um motorista profissional, um ás
+no controle de todos os tipos de máquinas. Ele
+é altamente habilidoso na operação, conserto e
+personalização de todos os tipos de veículos e/ou
+drones, oferecendo vigilância, transporte e poder de fogo remoto à sua
+equipe. A Reação é um atributo essencial para fusores.
+
+
+Samurai Urbano:  Em qualquer
+situação, ele conhecer quinze formas de
+machucar um oponente e mais oito formas
+de machucar muito um oponente pé no saco.
+Ele pode aguentar quantidades enormes de dano
+e continuar de pé, causando um dano devastador em seus inimigos. Ele
+tipicamente é ampliado com belas quantidades de ciber-itens e biônicos,
+que o deixa excepcionalmente durão e perigoso no combate físico e
+armado. Embora seja feroz e mortal, ele costuma ter um código: pode ser
+um código compreensível apenas para ele, mas já é alguma coisa. Corpo,
+Força, e Agilidade são atributos importantes para os personagens que
+sejam samurai urbanos.
+
+Socorrista:
+
+Socorrista é o curandeiro do tie — um profissional da medicina que atua fora 
+das instituições oficiais, atendendo mercenários, gangues, e shadowrunners em 
+situações onde hospitais não chegam, ou são perigosos demais. Eles são 
+especialistas em primeiros socorros, medicina de campo e tratamentos de 
+emergência, muitas vezes usando equipamentos portáteis, drogas especiais 
+e conhecimentos avançados para salvar vidas no calor da batalha.
+
+
+O que cada arquetipo tem e faz:
+
+*OBS: Ter proficiencia significa que se falhar no tteste da pericia treinada, voce pode rolar os D6s denovo.
+
+Face: Os face tem proficiencia em: Atuacao, enganar, diplomacia, intimidar e persuasao
 
 
 pag 94
