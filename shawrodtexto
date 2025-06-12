@@ -39,7 +39,7 @@ Criacao de personagem:
 2 - Meta-tipos: Humano.
 3 - Atributo: Apenas oq o humano tem, independente do que está no livro, tem no comeco 1D4 de atributo. Para voce tirar o valor do seu atributo, use um d4
 
-4 - Qualidades: Cada personagem comeca com 25 de Carma para gastar em qualidades, escolha a sua!
+4 - Qualidades: Cada personagem comeca com 25 de Carma para gastar em qualidades, escolha a sua! Porem, para realizar qualidades, nao é necessario fazer testes.
 
 
 Qualidades
@@ -638,7 +638,6 @@ trabalho envolve roubar, alterar e manipular
 dados
 
 Caras Sociais
-Manipuladores, líderes, negociadores.
 
 Face: Mestre da persuasão, blefe, intimidação e negociação. Usa charme e contatos.
 
@@ -646,7 +645,7 @@ Face: Mestre da persuasão, blefe, intimidação e negociação. Usa charme e co
 Suporte Técnico / Especialistas
 Ajudam o time com habilidades técnicas e médicas.
 
-Socorrista: Fornece primeiros socorros, medicina de campo e cura rápida.
+Socorrista: Fornece primeiros socorros, medicina/cyber de campo e cura rápida.
 
 Fusor: Especialista em consertar, criar e modificar equipamentos e drones.
 
@@ -723,21 +722,42 @@ sejam samurai urbanos.
 
 Socorrista:
 
-Socorrista é o curandeiro do tie — um profissional da medicina que atua fora 
+Socorrista é o curandeiro do time — um profissional da medicina que atua fora 
 das instituições oficiais, atendendo mercenários, gangues, e shadowrunners em 
 situações onde hospitais não chegam, ou são perigosos demais. Eles são 
 especialistas em primeiros socorros, medicina de campo e tratamentos de 
 emergência, muitas vezes usando equipamentos portáteis, drogas especiais 
 e conhecimentos avançados para salvar vidas no calor da batalha.
 
+Descricao dos socorristas:
+Socorristas tem um tipo de pendrive que pode ser instalado no braco de quem tem cyber-itens, assim se o usuario tiver sido hackeado ou sofrendo um cyber-ataque, o socorrista pode ajuda-lo, porem, nao basta apenas instalar o pendrive, mas reprogramar parte do sistema. Por isso, apenas socorristas tem essa habilidade
+
+Habilidades:
+
+Cicatrizacao digital:
+Alcance: Toque
+Habilidade LV1
+Tempo a ser feito: 1 turno
+
+Se seu amigo tiver sido hackeado, ou ter tido o sistema invadido por um inimigo, o socorrista, se passar no teste de medicina, pode anular o efeito do hack no jogador. Porem, se o teste de hack feito pelo inimigo for resultado maior do que o teste feito pelo socorrista, o hack nao é anulado.
+
+
 
 O que cada arquetipo tem e faz:
 
-*OBS: Ter proficiencia significa que se falhar no tteste da pericia treinada, voce pode rolar os D6s denovo.
+*OBS: Ter proficiencia significa que se falhar no teste da pericia treinada, voce pode rolar os D6s denovo.
 
 Face: Os face tem proficiencia em: Atuacao, enganar, diplomacia, intimidar e persuasao
 
+Tecnauta: O tecnauta tem proficiencia em: Biotecnologia, Computador, Combate virtual, Hackear, Hardware e Programacao.
 
-pag 94
+Tecnomante: O tecnomante tem proficiencia em: Assensar, Combate astral, Computador, Biotecnologia e Hardware
+
+Fusor: O fusor tem proficiencia em: Conducao de veiculos, fuga, corrida, reparo de robos
+
+
+Berserker: O berserker tem proficiencia em: Armas, Brigar, Tatica, Acrobacia, Sobrevivencia.
+
+Socorrista: O socorrista tem proficiencia em: Medicina, primeiros socorros, diplomacia, sobrevivencia, percepcao.
 
 Livro QuickStart Shadowrun Pag5
