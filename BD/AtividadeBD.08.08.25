@@ -86,3 +86,11 @@ INSERT INTO Vinculo (id_Turma, id_Professor) VALUES
 INSERT INTO Telefone (id_professor, telefone) VALUES
 (1, 58749645), (2, 47186574), (3, 68749582), (4, 63748129), (5, 45637287), (6, 32649764), (7, 53648923), (8, 82953746), (9, 83547592), (9, 74538254), (10, 24381907),
 (4, 53749853), (3, 52736285), (7, 53648965), (6, 54673904), (3, 62437859);
+USE bd_Escola;
+
+
+update Professor
+set nome = "Marcela dos Santos"
+WHERE id_Professor = 3;
+
+select * FROM Professor;
