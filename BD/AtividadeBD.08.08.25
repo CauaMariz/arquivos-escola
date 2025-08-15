@@ -1,9 +1,9 @@
 /*Criando a base de dados*/
-CREATE DATABASE bd_Escola;
+CREATE DATABASE bd_Escola2;
 CREATE DATABASE bd_Unidade;
  
 /*Usando a base de dados*/
-USE bd_Escola;
+USE bd_Escola2;
  
 /*Excluindo a base de dados*/
 DROP DATABASE bd_Unidade;
@@ -79,3 +79,10 @@ INSERT INTO Professor (nome, rg, cpf) VALUES
 ("Maria cristina", 12345678, 124658457), ("Pedro barbosa", 12345679, 98563274825), ("Marcelo dos Santos", 12345677, 12487596317), ("Beatriz soares", 12345676, 24185941274),
 ("Camila costa", 12345675, 98547585241),("Joao victor", 12345674, 54196578584), ("Thiago da silva", 12345673, 25762783425), ("Leonardo pereira", 12345672, 23448195357),
 ("Luciano goncalves", 12345671, 54196578574) , ("Antonio da silva" , 12345610 , 41297532598);
+
+INSERT INTO Vinculo (id_Turma, id_Professor) VALUES 
+(4, 3), (2, 7), (6, 1), (1, 5), (5, 2), (4, 9), (7, 1), (3, 8), (1, 6), (9, 1), (5, 9), (3, 10);
+
+INSERT INTO Telefone (id_professor, telefone) VALUES
+(1, 58749645), (2, 47186574), (3, 68749582), (4, 63748129), (5, 45637287), (6, 32649764), (7, 53648923), (8, 82953746), (9, 83547592), (9, 74538254), (10, 24381907),
+(4, 53749853), (3, 52736285), (7, 53648965), (6, 54673904), (3, 62437859);
