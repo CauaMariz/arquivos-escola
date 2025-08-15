@@ -41,5 +41,14 @@ class Aluno {
         $stmt->bindValue(":c", $cpf);
         return $stmt->execute();
     }
+
+    public function consultar($email){
+        $sql = "SELECT * from alunos where email = :e";
+        $sql = $this->pdo->prepare($sql);
+        $sql->bindValue(":e" , $email);
+        $sql->execute();
+
+        return $sql->rowCount() > 0;
+    }
 }
 ?>
