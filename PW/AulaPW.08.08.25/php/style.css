@@ -1,0 +1,67 @@
+form{
+    display: block;
+    background-color: rgb(209, 209, 209);
+    width: 30vw;
+    height: 30vw;
+    align-content: center;
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px rgb(49, 49, 49);
+    margin-top: 5vw;
+    justify-items: center;
+    justify-content: center;
+}
+input , button{
+    display: block;
+    margin-bottom: 1vw;
+}
+input{
+    width: 250px;
+    height: 40px;
+    border-radius: 10px;
+    outline: none;
+    border: 1px solid grey;
+    padding-left: 10px;
+}
+
+button{
+    position: relative;
+    height: 40px;
+    width: 200px;
+    border-radius: 10px;
+    outline: none;
+    border: 1px solid grey;
+    cursor: pointer;
+}
+.title{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 600;
+    font-size: 50px;
+}
+ul{
+    display: inline;
+    list-style: none;
+    align-items: center;
+    align-content: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    justify-content: space-between;
+}
+li{
+    display: inline;
+}
+input[type = "checkbox"]{
+    position: relative;
+    width: 17px;
+    display: inline;
+    top: -1.7%;
+    cursor: pointer;
+}
+.li1{
+    float: left;
+    margin-left: 10%;
+}
+.li2{
+    float: right;
+    margin-right: 10%;
+}
