@@ -1,3 +1,6 @@
+<?php
+session_start();
+?>
 <!DOCTYPE html>
 <html lang="pt-br">
 
@@ -9,6 +12,13 @@
 </head>
 
 <body>
+
+    <?php
+        if(isset($_SESSION["nome"])){
+            $nomeAluno = $_SESSION["nome"];
+            echo "<h1 class=\"bemVindo\">Bem vindo $nomeAluno!</h1>";
+        }
+    ?>
     <form action="cadastro.php" method="post">
 
         <p class="title">Cadastra-se</p>
