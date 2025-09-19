@@ -1,5 +1,5 @@
 <?php
-
+session_start();
 require "Aluno.class.php";
 $aluno = new Aluno();
 
@@ -15,9 +15,13 @@ if($con){
 
     if($al == 0){
         $aluno->cadastrar($nome , $email , $rm , $cpf);
+        $_SESSION["nome"] = $nome;
+        header("Location: home.php");
+      
     }
     else{
         echo "<script>alert('Este usuario ja existe')</script>";
+        echo "<script>location.href = 'home.php'</script>";
     }
 }
 else{
