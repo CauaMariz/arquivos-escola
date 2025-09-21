@@ -1,3 +1,7 @@
+###Nomes: Caua Mariz e Arthur Gomes
+###Sala: 2DS
+###Data: 19/09/25
+
 create database atividade_19_09_2025;
 use atividade_19_09_2025;
 
