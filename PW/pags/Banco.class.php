@@ -3,10 +3,10 @@
 class Banco
 {
     private $pdo;
-    public function connection()
+    public function conectar()
     {
         try {
-            $dbName = "mysql:dbname=caixaeletronicoo;host=localhost";
+            $dbName = "mysql:dbname=caixaeletronico;host=localhost";
             $dbUser = "root";
             $dbPass = "";
 
@@ -21,7 +21,7 @@ class Banco
 
     public function localizarTitular($id)
     {
-        $sql = "SELECT * from contas where id = :id";
+        $sql = "SELECT * from conta where id = :id";
         $sqlPdo = $this->pdo->prepare($sql);
 
         $sqlPdo->bindValue(":id", $id);
