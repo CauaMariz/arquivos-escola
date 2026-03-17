@@ -4,8 +4,15 @@ $usuario = new Usuario();
 $conn = $usuario->conecta();
 
 if($conn){
-    echo "<h1>Conectado ao Banco de Dados!</h1>";
+    ?>
+    <form action = "cadastrar.php" method = "POST">
+        <input type = "text" name = "nome" placeholder = "Digite seu nome:" required> <br>
+        <input type = "email" name = "email" placeholder = "Digite seu email:" required> <br>
+        <input type = "password" name = "senha" placeholder = "Digite sua senha" required> <br>
+        
+
+        <button type = "submit" id = "btnCadastro">Cadastrar</button>
+</form>
+<?php
 }
-else{
-    echo "<h1>Nao foi possivel conectar ao Banco de Dados!</h1>";
-}
+
