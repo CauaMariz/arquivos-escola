@@ -10,9 +10,9 @@ $conexao = $usuario->conecta();
 
 if(isset($_POST["nome"], $_POST["email"], $_POST["senha"])){
 
-    $nome = $_POST["nome"];
-    $email = $_POST["email"];
-    $senha = $_POST["senha"];
+    $nome = addslashes($_POST["nome"]);
+    $email = addslashes($_POST["email"]);
+    $senha = md5(addslashes($_POST["senha"]));
 
     if(empty($nome) || empty($email) || empty($senha)){
         echo "Preencha todos os campos!";
@@ -29,7 +29,8 @@ if(isset($_POST["nome"], $_POST["email"], $_POST["senha"])){
 
             if($usuario->insertUser($nome,$email,$senha)){
                 $_SESSION["nome"] = $nome;
-                header("Location: index.php");
+                echo "<script>alert(\"Cadastro realizado com sucesso!\")</script>";
+            echo "<script>window.location.href = \"index.php\"</script>";
                 exit;
             } else {
                 echo "Erro ao cadastrar usuario";
