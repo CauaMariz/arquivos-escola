@@ -44,11 +44,19 @@ class Usuario{
         return $stmt->rowCount() > 0;
     }
         public function checkPass($senha){
-        $sql = "SELECT * FROM usuarios WHERE senha = :s";
+        $sql = "SELECT * FROM usuarios WHERE md5(senha) = :s";
         $stmt = $this->pdo->prepare($sql);
         $stmt->bindValue(":s" , $senha);
         $stmt->execute();
 
         return $stmt->rowCount() > 0;
+    }
+
+    public function listarUsers(){
+        $sql = "SELECT * FROM usuarios";
+        $stmt = $this->pdo->prepare($sql);
+
+        $stmt->execute();
+        return $stmt->fetchAll();
     }
 }
