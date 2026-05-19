@@ -59,4 +59,16 @@ class Usuario{
         $stmt->execute();
         return $stmt->fetchAll();
     }
+
+      public function alterarUser($nome, $email, $senha){
+        $sql = "UPDATE usuarios SET nome = :n, email = :e, senha = :s WHERE id = :i";
+        $stmt = $this->pdo->prepare($sql);
+
+        $stmt->bindValue(":n" , $nome);
+        $stmt->bindValue(":e" , $email);
+        $stmt->bindValue(":s" , $senha);
+        $stmt->bindValue(":i" , $id);
+
+        $stmt->execute();
+    }
 }
