@@ -14,6 +14,10 @@ if ($conn) {
             padding: 0;
             box-sizing: border-box;
         }
+        body{
+            justify-items: center;
+            align-content: center;
+        }
 
         #formLogin {
             display: block;
