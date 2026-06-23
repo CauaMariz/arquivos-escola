@@ -1,111 +1,61 @@
-<?php
-require "Usuario.class.php";
-$usuario = new Usuario();
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+  </head>
+  <body class = "container fundo">
+    
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
+  </body>
 
-$con = $usuario->conecta();
-
-if ($con) {
-    $user = $usuario->listarUsers();
-
-    if (empty($user)) {
-        echo "Nao ha usuarios para listar";
-    } else {
-?>
-        <style>
-            table {
-                width: max-content;
-            }
-            body{
-                align-content: center;
-            }
-            div {
-
-                border: 1px solid grey;
-                border-radius: 20px;
-                width: fit-content;
-                min-width: 400px;
-                height: fit-content;
-                min-height: 300px;
-                padding: 10px 20px 20px 20px;
-                justify-items: center;
-                align-content: center;
-                font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-                margin: 0 auto;
-            }
-
-            p {
-                font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-                font-size: 23px;
-                margin-top: 0;
-            }
-
-            td {
-                font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-                padding-left: 20px;
-                padding-right: 20px;
-            }
-
-            a {
-                font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-                padding-left: 20px;
-                
-            }
-            th{
-                font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-                text-decoration: none;
-                color: black;
-                padding-right: 20px;
-            }
-            a{
-                font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-                text-decoration: none;
-                font-weight: bold;
-                padding-right: 20px;
-            }   
-            #editarLink{
-               color: green;
-            }
-            #excluirLink{
-                color: red;
-            }
-            tr{
-                border: 1px solid grey;
-                background-color: gainsboro;
-            }
-        </style>
-        <div>
-            <p>Dados dos usuários</p>
-            <table>
-                <tr>
-                    <td><b>Código:</b></td>
-                    <td><b>Nome:</b></td>
-                    <td><b>Email:</b></td>
-                    <th colspan="2">Ações</th>
-                </tr>
-                <?php
-                foreach ($user as $item) {
-                    $id = $item['id'];
-                    $nome = $item['nome'];
-                    $email = $item['email'];
-                ?>
-
-                    <tr>
-                        <td><?php echo $item['id']; ?></td>
-                        <td><?php echo $item['nome']; ?></td>
-                        <td><?php echo $item['email']; ?></td>
-                        <td>
-                            <a href="editar.php?id=<?php echo $item['id'];?>" id = "editarLink">Editar</a>
-                            <a href="excluir.php?id=<?php echo $item['id']; ?>" id = "excluirLink">Excluir</a>
-                        </td>
-                    </tr>
-                <?php
-                }
-                ?>
-
-            </table>
-        </div>
-<?php
+  <?php
+    $usuario = new Usuario();
+    $con = $usuario->conecta();
+  
+    if($con){
+        echo "Banco de dados indisponivel!";
+        exit;
     }
-} else {
-    echo "Banco indisponivel, tente mais tarde!";
-}
+
+    else{
+        echo "<a href = '../cadastrar.pag' class = 'btn btn-success my-5'> Novo usuario </a>";
+
+        $usuarios = $usuario->listarUsers();
+
+        $table = '<table class = \'table table-striped\'>';
+        $table .= '<thead>';
+        $table .= '<tr>';
+        $table .= '<th> selecionar Usuario</th>';
+        $table .= '<th> Codigo </th>';
+        $table .= '<th> Nome </th>';
+        $table .= '<th>Email</th>';
+        $table .= '<th>Ações</th>';
+        $table .= '<tr>';
+        $table .= '<tbody>';
+        
+        
+        foreach($usuarios as $index){
+            $id = $index['id'];
+            $nome = $index['nome'];
+            $email = $index['email'];
+
+            $table .= '<tr>';
+            $table .= '<td><input type = \'checkbox\' value = $id></td>';
+            $table .= '<td> $id</td>';
+            $table .= '<td>$nome</td>';
+            $table .= '<td>$email</td>';
+            $table .= '<td><a class = \'btn btn-info\' href = \'editar.php?codigo=$id\'>Editar</a></td>';
+            $table .= '<td><a class = \'btn btn-danger\' href = \'deletar.php?id=$id\'>Excluir</a></td>';
+            $table .= '</tr>';
+        }
+
+        $table = '</tbody>';
+        $table = '</thead>';
+        $table = '</table>';
+    }
+    echo $table;
+  ?>
+</html>
