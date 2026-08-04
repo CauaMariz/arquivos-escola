@@ -1,0 +1,45 @@
+.title{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+
+}
+label, input{
+    display: block;
+    
+}
+
+input{
+    margin-bottom: 20px;
+    padding: 5px;
+    border-radius: 10px;
+    border: 1px solid grey;
+    font-size: 20px;
+}
+form{
+    background-color: rgb(235, 235, 235);
+    height: fit-content;
+    width: fit-content;
+    display: block;
+    align-items: center;
+    justify-self: center;
+    padding: 20px;
+    border-radius: 10px;
+    align-self: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+select{
+    width: 110px;
+    height: 30px;
+    border-radius: 8px;
+    cursor: pointer;
+    background-color: rgb(80, 190, 157);
+    font-size: 15px;
+}
+button{
+     width: 110px;
+    height: 30px;
+    border-radius: 8px;
+    border: 1px solid grey;
+    cursor: pointer;
+    background-color: rgb(110, 228, 94);
+}
