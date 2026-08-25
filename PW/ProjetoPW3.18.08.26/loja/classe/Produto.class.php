@@ -29,21 +29,25 @@ class Produto{
 
         $isOk = $sql->execute();
         
-        if( $isOk ){
+        if( $isOk == true ){
             $id_produto = $this->pdo->LastInsertId();
         }
 
-        if( count( $fotos ) ){
-            for( $i = 0; $i < count($fotos); $i++ ){
-                $nome_foto = $fotos[i];
-                
-                $sql = "INSERT INTO imagens (nome_imagem, fk_id_produto) values (:n; :fk)";
+        if( count( $fotos ) > 0 ){
+            for($i = 0; $i < count($fotos); $i++ ){
+                $nome_foto = $fotos[$i];
+                echo "<br>";
+
+                $sql = "INSERT INTO imagens (nome_imagem, fk_id_produto) values (:n, :fk)";
                 $sql = $this->pdo->prepare($sql);
-                $sql ->bindValue(":n" , nome_foto); 
+                $sql ->bindValue(":n" , $nome_foto); 
                 $sql ->bindValue(":fk", $id_produto);
                 
-                return $sql->execute();
+                $isOk = $sql->execute();
+
+                return $isOk;
             }
         }
     }
 }
+
