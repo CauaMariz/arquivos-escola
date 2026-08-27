@@ -82,49 +82,54 @@ if (isset($_POST["nome"]) && !empty($_POST["nome"])) {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home</title>
+    <link rel="stylesheet" href="style/style.css">
 </head>
 
 <body>
 
-    <a href="classe/produtos.php" class="sombra">
-        Ver todos os produtos
-    </a>
-
+    
     <form action="index.php" method="post" enctype="multipart/form-data">
-
+        
         <label for="nome">Nome do Produto</label>
-
+        
         <input
-            type="text"
-            name="nome"
-            placeholder="Insira o nome"
-            required
+        type="text"
+        name="nome"
+        placeholder="Insira o nome"
+        required 
+        class = "input"
         >
-
+        
         <textarea
-            name="descricao"
-            placeholder="Insira a descrição"
-            required
+        name="descricao"
+        placeholder="Insira a descrição"
+        required
+        maxlength = "200"
         ></textarea>
-
+        
         <input
-            type="number"
-            name="valor"
-            placeholder="Insira o valor"
-            required
+        type="number"
+        name="valor"
+        placeholder="Insira o valor"
+        required
+        class = "input"
         >
-
+        
         <input
-            type="file"
-            name="foto[]"
-            multiple
-            required
+        type="file"
+        name="foto[]"
+        multiple
+        required
+        class = "inputFile"
         >
-
-        <input type="submit" value="Enviar">
-
+        
+        <input type="submit" value="Enviar" class = "inputSubmit">
+        
+        <a href="classe/produtos.php" class="sombra">
+            Ver todos os produtos
+        </a>
     </form>
-
+    
 </body>
 
 </html>
