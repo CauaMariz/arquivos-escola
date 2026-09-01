@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    
+}
+.campo-fotos{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 16vw;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+.foto1, .foto2, .foto3, .foto4, .foto5, .foto6{
+    background-color: rgb(245, 245, 245);
+    border-radius: 10px;
+    width: 300px;
+    justify-content: space-around;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.tituloFoto, .preco{
+    display: inline;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+}
+.preco{
+    font-weight: 600;
+    color: rgb(59, 192, 26);
+}
+.informacoes{
+    display: flex;
+    justify-content: space-around;
+}
+.fundoFoto{
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    background-color: rgb(241, 241, 241);
+    border: 1px solid rgb(172, 172, 172);
+    margin: 0 auto;
+}
